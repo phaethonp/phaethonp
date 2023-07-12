@@ -6,6 +6,16 @@ Our platform facilitates direct investment opportunities in property development
 Unique Value Proposition: Our platform stands out as the "Siri" for multiplayer communication in the property development industry. By using project data, our virtual assistant, WE-AI, interprets and responds to user requests, ensuring effective communication and coordination among architects, contractors, and investors.<br>
 
 
+# How we can support you
+|Scenario|How We Can Help|
+|-------|-------|
+|You are a GP seeking Direct Investments in property development|**We identify and structure high-potential property development opportunities, backed by data-driven market analysis and feasibility studies**|
+|||
+|You are a GP interested in partnerships for large-scale property development projects|**We establish partnerships**|
+|||
+|You are an institutional investor|We provide access to ESG-compliant property development projects.|
+|||
+|You're an investor keen on pioneering thematic special economic zones|**We can offer unique investment opportunities in MICRO-CITIES masterplanned thematic special economic zones**|<br>
 
 # Property Development Services
 ### Leveraging Multidisciplinary Expertise in Project Development
@@ -24,23 +34,6 @@ We offer the full spectrum of services for the property development project
 * ESG Compliance: 
 
 * Investor Relations
-
-# How we can support you
-|Scenario|How We Can Help|
-|-------|-------|
-|You are a GP seeking Direct Investments in property development|**We identify and structure high-potential property development opportunities, backed by data-driven market analysis and feasibility studies**|<br>
-
-|Scenario|How We Can Help|
-|-------|-------|
-|You are a GP interested in partnerships for large-scale property development projects|**We establish partnerships**|<br>
-
-|Scenario|How We Can Help|
-|-------|-------|
-|You are an institutional investor|We provide access to ESG-compliant property development projects.|<br>
-
-|Scenario|How We Can Help|
-|-------|-------|
-|You're an investor keen on pioneering thematic special economic zones|**We can offer unique investment opportunities in MICRO-CITIES masterplanned thematic special economic zones**|<br>
 
 
 
