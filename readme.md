@@ -28,19 +28,19 @@ We offer the full spectrum of services for the property development project
 # How we can support you
 |Scenario|How We Can Help|
 |-------|-------|
-|You are a General Partner seeking Direct Investments in property development|Our AI platform identifies and structures high-potential property development opportunities, backed by data-driven market analysis and feasibility studies.|<br>
+|You are a GP seeking Direct Investments in property development|**We identify and structure high-potential property development opportunities, backed by data-driven market analysis and feasibility studies**|<br>
 
 |Scenario|How We Can Help|
 |-------|-------|
-|You are a GP interested in partnerships for large-scale property development projects|We leverage our network to connect you with potential co-investors, promoting risk diversification and increased potential returns.|<br>
+|You are a GP interested in partnerships for large-scale property development projects|**We establish partnerships**|<br>
 
 |Scenario|How We Can Help|
 |-------|-------|
-|You are an institutional investor|Our platform can provide you with opportunities in sustainable and ESG-compliant property development projects.|<br>
+|You are an institutional investor|We provide access to ESG-compliant property development projects.|<br>
 
 |Scenario|How We Can Help|
 |-------|-------|
-|You're an investor keen on pioneering thematic special economic zones|With our future-focused approach, we can offer unique investment opportunities in masterplanned thematic special economic zones..|<br>
+|You're an investor keen on pioneering thematic special economic zones|**We can offer unique investment opportunities in MICRO-CITIES masterplanned thematic special economic zones**|<br>
 
 
 
