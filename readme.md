@@ -1,4 +1,4 @@
-hello, we are we-ai property developers that use ai technologies to build with ease large scale innovative projects
+hello, we are we-ai.  A property developer startup that uses ai technologies to build with ease large-scale innovative projects<br>
 
 WE-AI offers comprehensive property development services, powered by an innovative AI platform.
 Our platform facilitates direct investment opportunities and ensures efficient project coordination. We leverage advanced AI technology to streamline communication and coordination among all stakeholders in the property development industry.<br>
