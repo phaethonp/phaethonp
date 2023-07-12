@@ -5,11 +5,10 @@ Our platform facilitates direct investment opportunities and ensures efficient p
 
 Unique Value Proposition: Our platform stands out as the "Siri" for multiplayer communication in the property development industry. By using project data, our virtual assistant, WE-AI, interprets and responds to user requests, ensuring effective communication and coordination among architects, contractors, and investors.<br>
 
-### Leveraging Multidisciplinary Expertise in Project Development
 
-We channel our collective knowledge and proficiency in architecture, construction, and management of high-rise mixed-use developments, along with large-scale hospitality projects, to optimize project outcomes<br>
 
 # Property Development Services
+### Leveraging Multidisciplinary Expertise in Project Development
 We offer the full spectrum of services for the property development project
 * Conceptualization and Feasibility Studies
 
