@@ -5,7 +5,7 @@ Welcome! WE-AI stands at the forefront of transformation in the `development`, `
 ## Fusion of technology with a vision for future developments
 The key value proposition here is the **fusion of technology** (AI platform) with extensive experience (30 years in the high rise mixed use developments and large-scale hospitality projects), coupled with our vision for future developments. <be><br>
 
-# AI-Native Comprehensive Solution for Property Development 
+# AI-Native Comprehensive Solution
 The **artificial intelligence** platform, our framework, is developed to address inherent challenges in property development Direct Investments, the design and development of the project, and the operations following the completion and handing over.<br>
 
 ## Direct Investment
