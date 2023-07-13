@@ -1,4 +1,4 @@
-# Application Programming Interface API for Direct Investments in Real Estate and Property Development Management.
+# Welcome to WE-AI, an AI-powered platform for direct investments in real estate and property development management
 Welcome! WE-AI stands at the forefront of transformation in the `development`, `investment`, and `management` of large scale real estate projects such as  [Micro-Cities: Special Economic Zones Masterplanned as Iconic World Destinations](https://github.com/phaethonp/phaethonp/blob/main/readme.md#our-vision-for-future-property-development)<br>
 
 
