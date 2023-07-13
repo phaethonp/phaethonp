@@ -1,9 +1,11 @@
-# Welcome to WE-AI, an AI-powered platform for direct investments in real estate and property development management
-Welcome! WE-AI stands at the forefront of transformation in the `development`, `investment`, and `management` of large scale real estate projects such as  [Micro-Cities: Special Economic Zones Masterplanned as Iconic World Destinations](https://github.com/phaethonp/phaethonp/blob/main/readme.md#our-vision-for-future-property-development)<br>
+# AI-powered platform for direct investments in real estate and property development management
+Welcome to WE-AI, an AI-powered platform for direct investments in real estate and property development management<br>
+
 
 
 ## Fusion of technology with a vision for future developments
-The key value proposition here is the **fusion of technology** (AI platform) with extensive experience (30 years in the high rise mixed use developments and large-scale hospitality projects), coupled with our vision for future developments. <be><br>
+The key value proposition here is the **fusion of technology** (AI platform) with extensive experience (30 years in the high rise mixed use developments and large-scale hospitality projects), coupled with our vision for future developments. [Micro-Cities: Special Economic Zones Masterplanned as Iconic World Destinations](https://github.com/phaethonp/phaethonp/blob/main/readme.md#our-vision-for-future-property-development)<br>
+ <be><br>
 
 # AI-Native Comprehensive Solution
 The **artificial intelligence** platform, our framework, is developed to address inherent challenges in property development Direct Investments, the design and development of the project, and the operations following the completion and handing over.<br>
