@@ -5,14 +5,11 @@ WE-AI is an AI-powered platform designed to revolutionize the real estate and pr
 ## Our Value Proposition
 Our platform combines cutting-edge technology with over 30 years of experience in high-rise mixed-use developments and large-scale hospitality projects. We bring together the best of both worlds to offer a unique value proposition:<br>
 
-### Technology Fusion: 
-Our AI platform is designed to tackle inherent challenges in property development, from direct investments and project design to post-completion operations.<br>
+**Technology Fusion:** Our AI platform is designed to tackle inherent challenges in property development, from direct investments and project design to post-completion operations.<br>
 
-### Direct Investment Opportunities: 
-WE-AI identifies and structures high-potential property development projects that address climate change and ESG growth. Our goal is to secure profitable returns for investors while providing tangible benefits for local communities.<br>
+**Direct Investment Opportunities:** WE-AI identifies and structures high-potential property development projects that address climate change and ESG growth. Our goal is to secure profitable returns for investors while providing tangible benefits for local communities.<br>
 
-### Data-Driven Decisions: 
-All our investment opportunities are backed by comprehensive market analysis and feasibility studies, ensuring each project's viability and profitability.<br>
+**Data-Driven Decisions:**All our investment opportunities are backed by comprehensive market analysis and feasibility studies, ensuring each project's viability and profitability.<br>
 
 ## How WE-AI Works
 WE-AI serves as a virtual assistant in the property development industry, facilitating effective communication and coordination among architects, contractors, and investors. Here's how we can support you:
