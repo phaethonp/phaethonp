@@ -55,10 +55,21 @@ We are dedicated to upholding the highest environmental, social, and governance 
 
 
 
-# Innovative Technology
-AI-Enhanced Project Management: Our advanced use of AI technology streamlines project structuring, risk evaluation, and execution, giving us a competitive edge in the property development sector<br>
+# The WE-AI platform for property development
+https://github.com/phaethonp/we-ai<br>
+**AI-Native Property Development**: Our advanced use of AI technology streamlines project structuring, risk evaluation, and execution, giving us a competitive edge in the property development sector<br>
+WE-AI is the Siri for multiplayer communication on a Property Development platform. WE-AI is a virtual assistant that uses project data to interpret and respond to user requests. It's specifically designed to facilitate communication among users in the property development industry. Think of it as Siri, but with a focus on distributing relevant information to architects, contractors, and investors at the right time, ensuring effective communication and coordination.<br>
 
 # Investment Partnerships
 ### Facilitating Global Co-Investment Opportunities: 
 Our aim is to create a network of potential co-investors, and nations fostering partnerships and collaborative investment opportunities in the property development sphere<br>
+
+# Our Clients
+Our diverse client base includes individuals as well as multinational corporations. Some notable clients are:<br>
+* The National Bank of Greece
+* Hochtief AG
+* Astir Palace Vouliagmeni S.A.
+* Bank of Cyprus
+* The Athens International Airport
+* Various family offices and private clients
 
