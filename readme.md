@@ -1,9 +1,9 @@
 # Application Programming Interface API for Direct Investments in Real Estate and Property Development Management.
-Welcome! WE-AI stands at the forefront of transformation in the `development`, `investment`, and `management` of large scale real estate projects such as Thematic Micro-Cities and Mixed Use developments. <br>
+Welcome! WE-AI stands at the forefront of transformation in the `development`, `investment`, and `management` of large scale real estate projects such as  Micro-Cities: Special Economic Zones Masterplanned as Iconic World Destinations<br>
 
 
 ## Fusion of technology with a vision for future developments
-The key value proposition here is the **fusion of technology** (AI platform) with extensive experience (30 years in the high rise mixed use developments and large-scale hospitality projects), coupled with our vision for future developments. <br>
+The key value proposition here is the **fusion of technology** (AI platform) with extensive experience (30 years in the high rise mixed use developments and large-scale hospitality projects), coupled with our vision for future developments. <be><br>
 
 ## AI-Native Comprehensive Solution for Property Development 
 The **artificial intelligence** platform, our framework, is developed to address inherent challenges in property development Direct Investments, the design and development of the project, and the operations following the completion and handing over.<br>
