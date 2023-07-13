@@ -19,7 +19,7 @@ Unique Value Proposition: Our platform stands out as the "Siri" for multiplayer 
 
 # Property Development Services
 ### Leveraging Multidisciplinary Expertise in Project Development
-We offer the full spectrum of services for the property development project
+Leveraging our extensive international network of partners, we provide a comprehensive range of services for property development projects. We work.We bring extensive property development experience from **Africa** and **Europe**, and are now eyeing expansion into the **US market**.<br>
 * Conceptualization and Feasibility Studies
 
 * Planning and Design: 
