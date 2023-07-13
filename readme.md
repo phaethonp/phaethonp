@@ -1,13 +1,17 @@
 # Welcome to WE-AI,
 We are a **pioneering property development** startup that leverages the power of **artificial intelligence** to revolutionize the landscape of **property development investments**<br>
 
+
 ## Our Core Service: Direct Investments in Property Development
 
-At WE-AI, our primary service is facilitating direct investments in property development. But we do more than just facilitate. We play an active role in the entire process - from identifying high-potential opportunities to setting up and managing the project, and finally, delivering the finished property. <br>
+At WE-AI, our primary service is facilitating direct investments in property development. We are the catalysts that initiate the process, organizing the investment and partnering with various stakeholders to ensure the successful delivery of the project.<br>
 
-Our innovative AI platform is designed to identify and structure high-potential property development opportunities. These opportunities are backed by data-driven market analysis and feasibility studies, providing investors with a robust foundation for their investment decisions. <br>
+Our innovative AI platform is designed to identify and structure high-potential property development opportunities. These opportunities are backed by data-driven market analysis and feasibility studies, providing investors with a robust foundation for their investment decisions.<br>
 
-Once an opportunity is identified, we set up the project, manage all parties involved, and oversee the project until its successful completion. Our role doesn't end with finding the opportunity; we are committed to delivering a successful property development project that offers substantial returns for our investors.<br>
+Once an opportunity is identified, we organize the investment, bringing together the necessary capital and resources. We then partner with various stakeholders, such as architecture firms like Foster + Partners, engineering companies, urban and landscape designers, and others rooted in sustainability. <br>
+
+Our role is comprehensive and critical. We manage all parties involved, ensuring seamless coordination and communication, and oversee the project until its successful completion. Our commitment extends beyond finding the opportunity; we are dedicated to delivering a successful property development project that offers substantial returns for our investors.<br>
+
 
 
 
