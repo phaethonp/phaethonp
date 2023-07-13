@@ -1,5 +1,5 @@
 # Welcome to WE-AI
-WE-AI is an AI-powered platform designed to revolutionize the real estate and property development industry. By leveraging the power of artificial intelligence, we aim to streamline direct investments and enhance property development management.<br>
+[WE-AI is an AI-powered platform](https://github.com/phaethonp/we-ai#api-for-property-development) designed to revolutionize the real estate and property development industry. By leveraging the power of artificial intelligence, we aim to streamline direct investments and enhance property development management.<br>
 
 
 ## Our Value Proposition
