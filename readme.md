@@ -13,8 +13,8 @@ Our AI platform is designed to tackle inherent challenges in property developmen
 #### :small_blue_diamond: Our Vision: Iconic World Destinations as Special Economic Zones
 Our future property development vision includes the creation of Iconic World Destinations as Special Economic Zones. These are large-scale residential and hospitality sector complexes designed and masreplanned as Micro-Cities. They combine resort living, hotels, residential, commercial, and recreational spaces to create vibrant communities within unique and diverse natural environments.<br>
 
-#### :small_blue_diamond: Our Commitment to ESG Compliance
-At WE-AI, we are dedicated to upholding the highest environmental, social, and governance standards. **Our platform is designed to facilitate the delivery of projects that meet these stringent ESG criteria**.<br>
+#### :small_blue_diamond: ESG Integration & Compliance
+We integrate environmental, social, and governance (ESG) principles into the core of our projects. This approach drives sustainable growth, creates lasting value, and ensures our developments meet the highest standards of responsibility and impact. **Our platform is designed to facilitate the delivery of projects that meet these stringent ESG criteria**.<br>
 
 <p align="center">
   :large_blue_circle:
