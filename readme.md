@@ -18,30 +18,29 @@ Our future property development vision includes the creation of Micro-Cities. Th
 At WE-AI, we are dedicated to upholding the highest environmental, social, and governance standards. Our platform is designed to facilitate the delivery of projects that meet these stringent ESG criteria.<br>
 
 ### HOW WE-AI WORKS
-WE-AI builds a knowledge base for every project and serves as  a virtual assistant, facilitating effective communication and coordination among architects, contractors, and investors.
+WE-AI builds a knowledge base for every project and serves as  a virtual assistant, facilitating effective communication and coordination among architects, contractors, investors, and communities.<br>
 
 ### DELIVERING INTEGRATED SOLUTIONS TO THE PROPERTY DEVELOPMENT INVESTMENT COMMUNITY
 >WE-AI provides Property Development Investment services, Project Management Advisory, and Strategic Solutions for General Partners and Limited Partners seeking to optimize success in the global Property Development Market<BR>
 
-Here's how we can support you:
-#### For GPs in Need for High-Potential Investment Opportunities
-WE-AI's AI platform identifies and structures high-potential property development opportunities, backed by data-driven market analysis and feasibility studies.<br>
-### For GPs interested in Partnerships: 
-We establish partnerships for large-scale property development projects.
+Here's how we can support GPs, Institutional Investors, Family Offices, National Governments, and Communities<BR>
+#### Need for High-Potential Investment Opportunities:
+WE-AI's AI platform **identifies** and **structures** high-potential property development opportunities.<br>
+#### Investment Organization:
+WE-AI organizes the necessary capital and resources, ensuring substantial returns for investors, tangible benefits for local communities, and significant contributions to hosting nations.
+#### Need for Strategic Partnerships:
+WE-AI forms strategic partnerships with key stakeholders, including renowned architecture firms, engineering companies, and urban and landscape designers.<br>
+#### Project Management:
+WE-AI manages all parties involved, ensuring seamless coordination and communication, and oversees the project until its successful completion.<br>
+#### ESG Profitable Projects:
+WE-AI places a strong emphasis on climate change mitigation and ESG considerations, integrating them into every project.<br>
 
-### For Institutional Investors: 
-We provide access to ESG-compliant property development projects.
 
-### For Investors interested in Special Economic Zones: 
-We offer unique investment opportunities in MICRO-CITIES, masterplanned thematic special economic zones.<br>
-
-
-
-## Our Clients
+### OUR CLIENTS
 Our diverse client base includes individuals as well as multinational corporations. Some of our notable clients include The National Bank of Greece, Hochtief AG, Astir Palace Vouliagmeni S.A., Bank of Cyprus, The Athens International Airport, and various family offices and private clients.<br>
 
 Join us as we redefine the future of real estate and property development with AI.
 
-# Contact us
+### CONTACT US
 You can reach us at phaethon.psichis@protonmail.com
 
