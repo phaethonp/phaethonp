@@ -1,9 +1,20 @@
 # API for Property Development 
 [WE-AI: APIs for property development](https://github.com/phaethonp/we-ai#api-for-property-development) WE-AI is the Siri for multiplayer communication on a Property Development platform. It is a virtual assistant that uses project data to interpret and respond to user requests. It's specifically designed to facilitate communication among users in the property development industry, by proactively identifying and surfacing relevant content and providing recommendations.<br>
 
+<p align="center">
+  :large_blue_circle:
+</p>
+
+
 ### PROBLEM TO SOLVE
 The **property development industry** is marked by **inherent challenges**, such as:`Friction` `Lack of Data`, `Uneven Information Distribution`, `Safety`, `Low Productivity`, `integrated Data Sources`, `Notifications` `Predictive Analytics`
 WE-AI builds a knowledge base for every project that serves as  a source of truth for the retrieval of content available to all parties<br>
+
+<p align="center">
+  :large_blue_circle:
+</p>
+
+
 
 ### EXPECTED SOLUTIONS
 An integrated solution that proactively identifies and surfaces relevant content from the project's data pool and provides recommendations to all parties involved. <br>
