@@ -9,10 +9,10 @@ WE-AI builds a knowledge base for every project that serves as  a source of trut
 An integrated solution that proactively identifies and surfaces relevant content from the project's data pool and provides recommendations to all parties involved. <br>
 The solution will enable us to connect the myriad parties involved in the property development markets via streamlined information sharing, and assembly fragmented procedures into a factory-like assembly line. Such a system would allow for the delivery of services to markets such as:
   
-:small_blue_diamond: Property Management Services to homeowner markets
-:small_blue_diamond: Contract Management Services to industry professional
-:small_blue_diamond: A new type of Micro-City: Because our platform streamlines the development process, is making it possible to bring mid-scale projects to life in a fraction of the traditional timeframe 
-:small_blue_diamond:Investment Attraction: The transparency and data-driven decision-making facilitated by the platform could make large-scale projects more attractive to investors, potentially leading to an increase in the supply of housing.
+:small_blue_diamond: Property Management Services to homeowner markets<br>
+:small_blue_diamond: Contract Management Services to industry professional<br>
+:small_blue_diamond: A new type of Micro-City: Because our platform streamlines the development process, is making it possible to bring mid-scale projects to life in a fraction of the traditional timeframe <br>
+:small_blue_diamond:Investment Attraction: The transparency and data-driven decision-making facilitated by the platform could make large-scale projects more attractive to investors, potentially leading to an increase in the supply of housing.<br>
 
 <p align="center">
   :large_blue_circle:
@@ -21,12 +21,13 @@ The solution will enable us to connect the myriad parties involved in the proper
 # Platform Services
 
 ### MANAGEMENT SERVICES 
-At WE-AI, we fuse advanced **AI Technology** with our team's **30+ years of experience** in Architecture and Construction. Our vision is to shape the future of property development by creating **Iconic World Destinations within Special Economic Zones**.<br>
+At WE-AI, we fuse advanced **AI Technology** with our team's **30+ years of experience** in Architecture and Construction to deliver services that the industry needs.<br>
 
 #### :small_blue_diamond: For Homebuilding Owners 
-Our AI platform is designed to tackle inherent challenges in property development, from direct investments and project design to post-completion operations.<br>
+Contract Management and Quality Control<br>
 
 #### :small_blue_diamond: For Architects & Contractors
+A suite of AI-native open-source tools paired with Contract Management and Quality Control APIs<br>
 
 
 ### PROPERTY DEVELOPMENT SERVICES
