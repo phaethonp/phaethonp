@@ -40,6 +40,9 @@ Contract Management and Quality Control<br>
 #### :small_blue_diamond: For Architects & Contractors
 A suite of AI-native open-source tools paired with Contract Management and Quality Control APIs<br>
 
+<p align="center">
+  :large_blue_circle:
+</p>
 
 ### PROPERTY DEVELOPMENT SERVICES
 As a global platform for urban development powered by our proprietary APIs, we are uniquely positioned to organize and execute future forward-thinking Micro-Cities  that foster innovation and ESG growth with our international network of Architects and partners.<br>
