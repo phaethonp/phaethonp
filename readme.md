@@ -8,8 +8,8 @@
 
 ### PROBLEMS WE SOLVE
 The **property development industry** is marked by **inherent challenges**, such as:<be>
-`Friction` `Lack of Data`, `Uneven Information Distribution`, `Safety`, `Low Productivity`, `integrated Data Sources`, `Notifications` `Predictive Analytics`<br>
-Large-scale property & Urban developments, which are important for `Urbanization and Population Growth`, `Economic Growth`, and  play a crucial role in enabling `affordable housing`,  bring their own unique set of challenges which we seek to address. These include `Structuring Partnerships`, `Raising Capital`, `community Engagement`, `effective monitoring`, `transparency` and `post completion management`, among others.
+`Friction` `Lack of Data`, `Uneven Information Distribution`, `Safety`, `Low Productivity`, `integrated Data Sources`, `Notifications` `Predictive Analytics`<be><br>
+**Large-scale property & Urban developments**, which are important for `Urbanization and Population Growth`, `Economic Growth`, and  play a crucial role in enabling `affordable housing`,  bring their own unique set of challenges which we seek to address. These include `Structuring Partnerships`, `Raising Capital`, `community Engagement`, `effective monitoring`, `transparency` and `post completion management`, among others.
 
 <p align="center">
   :large_blue_circle:
