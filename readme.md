@@ -16,9 +16,17 @@ WE-AI builds a knowledge base for every project that serves as  a source of trut
 
 
 
-### WE CAN DELIVER SOLUTIONS TO THE FOLLOWING MARKETS
+### SOLUTION 
 An integrated solution that proactively identifies and surfaces relevant content from the project's data pool and provides recommendations to all parties involved. <br>
-The solution will enable us to connect the myriad parties involved in the property development markets via streamlined information sharing, and assembly fragmented procedures into a factory-like assembly line. Such a system would allow for the delivery of services to markets such as:
+The solution will enable us to connect the myriad parties involved in the property development markets via streamlined information sharing, and assembly fragmented procedures into a factory-like assembly line. 
+
+<p align="center">
+  :large_blue_circle:
+</p>
+
+### MARKETS WE SERVE
+
+Such a system would allow for the delivery of services to markets such as:
   
 :small_blue_diamond: Custom home market: Project Management Services <br><br>
 :small_blue_diamond: Industry professionals: Virtual office with AI automation<br><br>
