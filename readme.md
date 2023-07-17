@@ -54,10 +54,12 @@ A suite of AI-native open-source tools paired with Contract Management and Quali
   :large_blue_circle:
 </p>
 
-### PROPERTY DEVELOPMENT SERVICES
-As a global platform for urban development powered by our proprietary APIs, we are uniquely positioned to organize and execute future forward-thinking Micro-Cities  that foster innovation and ESG growth with our international network of Architects and partners.<br>
+### URBAN & PROPERTY DEVELOPMENT SERVICES
+As a global platform for urban development powered by our proprietary APIs, we are uniquely positioned to organize and execute future forward-thinking projects  that foster innovation and ESG growth with our international network of Architects and partners.<br>
 #### :small_blue_diamond: Micro-Cities— Iconic World Destinations as Special Economic Zones
-Our future property development vision includes the creation of Iconic World Destinations as Special Economic Zones. These are large-scale residential and hospitality sector complexes designed and masreplanned as Micro-Cities. They combine resort living, hotels, residential, commercial, and recreational spaces to create vibrant communities within unique and diverse natural environments.<br>
+Our future property development vision includes the creation of Iconic World Destinations as Special Economic Zones. These are large-scale residential and hospitality sector complexes designed and masreplanned as Micro-Cities. They combine resort living, hotels, residential, commercial, and recreational spaces to create vibrant communities within unique and diverse natural environments.<be><br>
+
+#### :small_blue_diamond: Property Development Services
 
 
 
