@@ -28,7 +28,7 @@ The solution will enable us to connect the myriad parties involved in the proper
 
 Such a system would allow for the delivery of services to markets such as:
   
-:small_blue_diamond: Custom home market: Project Management Services <br><br>
+:small_blue_diamond: Custom home market: Contract Management Services & Quality Control <br><br>
 :small_blue_diamond: Industry professionals: Virtual office with AI automation<br><br>
 :small_blue_diamond: Public-Private Ventures: Urban development projects— The AI-powered Micro-City: <br> 
 Because our platform streamlines the development process, is making it possible to bring mid-scale projects to life in a fraction of the traditional timeframe <br><br>
