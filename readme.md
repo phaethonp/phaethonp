@@ -7,8 +7,8 @@
 
 
 ### PROBLEMS WE SOLVE
-The **property development industry** is marked by **inherent challenges**, such as:<br>`Friction` `Lack of Data`, `Uneven Information Distribution`, `Safety`, `Low Productivity`, `integrated Data Sources`, `Notifications` `Predictive Analytics`<br>
-WE-AI builds a knowledge base for every project that serves as  a source of truth for the retrieval of content available to all parties<br>
+The **property development industry** is marked by **inherent challenges**, such as:<be>
+`Friction` `Lack of Data`, `Uneven Information Distribution`, `Safety`, `Low Productivity`, `integrated Data Sources`, `Notifications` `Predictive Analytics`<br>
 
 <p align="center">
   :large_blue_circle:
@@ -17,7 +17,8 @@ WE-AI builds a knowledge base for every project that serves as  a source of trut
 
 
 ### SOLUTION 
-An integrated solution that proactively identifies and surfaces relevant content from the project's data pool and provides recommendations to all parties involved. <br>
+WE-AI constructs a comprehensive knowledge base for each project, acting as a reliable source for retrieving content that is accessible to all involved parties<br>
+It is an integrated solution that proactively identifies and surfaces relevant content from the project's data pool and provides recommendations to all parties involved. <br>
 The solution will enable us to connect the myriad parties involved in the property development markets via streamlined information sharing, and assembly fragmented procedures into a factory-like assembly line. 
 
 <p align="center">
