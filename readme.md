@@ -6,7 +6,7 @@
 </p>
 
 
-### PROBLEM TO SOLVE
+### PROBLEMS WE SOLVE
 The **property development industry** is marked by **inherent challenges**, such as:<br>`Friction` `Lack of Data`, `Uneven Information Distribution`, `Safety`, `Low Productivity`, `integrated Data Sources`, `Notifications` `Predictive Analytics`<br>
 WE-AI builds a knowledge base for every project that serves as  a source of truth for the retrieval of content available to all parties<br>
 
