@@ -22,8 +22,10 @@ The solution will enable us to connect the myriad parties involved in the proper
   
 :small_blue_diamond: Property Management Services to homeowner markets<br><br>
 :small_blue_diamond: Contract Administration Services to industry professional<br><br>
-:small_blue_diamond: Create a new property development typology<br> The AI-powered Micro-City: Because our platform streamlines the development process, is making it possible to bring mid-scale projects to life in a fraction of the traditional timeframe <br><br>
-:small_blue_diamond:Investment Attraction: The transparency and data-driven decision-making facilitated by the platform could make mid and large-scale projects more attractive to investors, potentially leading to an increase in the supply of housing.<br><br>
+:small_blue_diamond: Urban development projects: The AI-powered Micro-City: <br> 
+Because our platform streamlines the development process, is making it possible to bring mid-scale projects to life in a fraction of the traditional timeframe <br><br>
+:small_blue_diamond:Property Development Investment Community:<br>
+The transparency and data-driven decision-making facilitated by the platform could make large-scale projects more attractive to investors, potentially leading to an increase in investments in more complex projects such as affordable housing and new urban developments.<br><br>
 
 <p align="center">
   :large_blue_circle:
