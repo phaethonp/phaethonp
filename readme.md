@@ -60,26 +60,20 @@ Our future property development vision includes the creation of Iconic World Des
 
 Here's how we can support GPs, Institutional Investors, Family Offices, National Governments, and Communities<BR>
 #### :small_blue_diamond: Direct Investment Opportunities: 
-WE-AI identifies and structures high-potential property development projects that address climate change and ESG growth. Our goal is to secure profitable returns for investors while providing tangible benefits for local communities.<br>
+WE-AI identifies and structures high-potential property development projects that address climate change and ESG growth. We-ai platform assists to secure profitable returns for investors while providing tangible benefits for local communities.<br>
 
-#### :small_blue_diamond:  Investment Organization:
-WE-AI organizes the necessary capital and resources, ensuring substantial returns for investors, tangible benefits for local communities, and significant contributions to hosting nations.
-#### :small_blue_diamond: Need for Strategic Partnerships:
+#### :small_blue_diamond: Form Strategic Partnerships:
 WE-AI forms strategic partnerships with key stakeholders, including renowned architecture firms, engineering companies, and urban and landscape designers.<br>
-#### :small_blue_diamond: Project Management:
-WE-AI manages all parties involved, ensuring seamless coordination and communication, and oversees the project until its successful completion.<br>
-####  :small_blue_diamond: ESG Profitable Projects:
-WE-AI places a strong emphasis on climate change mitigation and ESG considerations, integrating them into every project.<br>
 
 <p align="center">
   :large_blue_circle:
 </p>
 
 ### DELIVERING INTEGRATED SOLUTIONS TO NATIONAL GOVERNMENTS AND COMMUNITIES
-#### :small_blue_diamond:  National Governments: GDP Growth
+#### :small_blue_diamond: Urban Development: Micro-Cities— Iconic World Destinations as Special Economic Zones
 WE-AI's projects can boost regional economies by attracting Foreign Direct Investment (FDI) and increasing GDP from international tourism. Each Micro-City has the capacity to bring over 250K tourists into the country each year, each staying for an average of one week.<br> At the same time, our micro-cities offer year-round living for more than 20,000 residents. This dual function contributes significantly to the local economy and the country's tourism industry, while also creating vibrant, sustainable communities<BR>
 
-#### :small_blue_diamond: Communities: 
+#### :small_blue_diamond: Communities: ESG growth
 WE-AI is deeply committed to creating value for local communities. Our projects are meticulously designed to offer tangible benefits. This includes improved infrastructure and job creation, which directly contribute to the local economy. <BR>Furthermore, our advanced urban development strategies enhance the quality of life and the environment. <br>
 Lastly, **technology spillovers** from our AI-driven projects foster innovation and technological advancement within the community. With WE-AI, communities are not just bystanders but active participants and beneficiaries of sustainable property development.<br>
 #### :small_blue_diamond: ESG Integration & Compliance:
