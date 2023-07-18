@@ -51,7 +51,7 @@ At WE-AI, we fuse advanced **AI Technology** with our team's **30+ years of expe
 Contract Management and Quality Control<br>
 
 #### :small_blue_diamond: For Architects & Contractors
-A suite of AI-native open-source tools paired with Contract Management and Quality Control APIs<br>
+A suite of AI-native open-source tools <br>
 
 <p align="center">
   :large_blue_circle:
