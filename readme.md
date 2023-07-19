@@ -37,7 +37,7 @@ The property development industry is marked by inherent challenges, such as fric
 :small_blue_diamond: APIs to Automate processes <br>
 **We automate processes**, from design to construction, and from marketing to sales. Our versatile APIs serve as 'software glue,' bridging the gap between legacy systems and AI. This will enable us to operate as a fully automated property development company.
 
-:small_blue_diamond: ** Deploy Information retrieval and recommendation system** <br>
+:small_blue_diamond: **Information retrieval and recommendation system** <br>
 The system facilitates **direct communication through an AI assistant** among architects, contractors, and investors. This will enable direct investments in property development.
 
 
@@ -45,9 +45,11 @@ The system facilitates **direct communication through an AI assistant** among ar
   :large_blue_circle:
 </p>
 
-# Customers we can serve
+# Delivering integrated solutions
 
-### DELIVERING INTEGRATED SOLUTIONS TO THE PROPERTY DEVELOPMENT INVESTMENT COMMUNITY
+### ARCHITECTS AND REAL ESTATE PROFESSIONALS
+
+###  TO THE PROPERTY DEVELOPMENT INVESTMENT COMMUNITY
 
 Here's how we can support GPs, Institutional Investors, Family Offices, National Governments, and Communities<BR>
 #### :small_blue_diamond: Direct Investment Opportunities: 
@@ -60,7 +62,7 @@ WE-AI forms strategic partnerships with key stakeholders, including renowned arc
   :large_blue_circle:
 </p>
 
-### DELIVERING INTEGRATED SOLUTIONS TO NATIONAL GOVERNMENTS AND COMMUNITIES
+### TO NATIONAL GOVERNMENTS AND COMMUNITIES
 #### :small_blue_diamond: Urban Development: Micro-Cities— Iconic World Destinations as Special Economic Zones
 WE-AI's projects can boost regional economies by attracting Foreign Direct Investment (FDI) and increasing GDP from international tourism. Each Micro-City has the capacity to bring over 250K tourists into the country each year, each staying for an average of one week.<br> At the same time, our micro-cities offer year-round living for more than 20,000 residents. This dual function contributes significantly to the local economy and the country's tourism industry, while also creating vibrant, sustainable communities<BR>
 
@@ -89,11 +91,13 @@ You can reach us at phaethon.psichis@protonmail.com
 # Services and project typologies
 
 ### URBAN & PROPERTY DEVELOPMENT SERVICES
+
+#### :small_blue_diamond: Property Development Services
 As a global platform for urban development powered by our proprietary APIs, we are uniquely positioned to organize and execute future forward-thinking projects  that foster innovation and ESG growth with our international network of Architects and partners.<br>
 #### :small_blue_diamond: Micro-Cities— Iconic World Destinations as Special Economic Zones
 Our future property development vision includes the creation of Iconic World Destinations as Special Economic Zones. These are large-scale residential and hospitality sector complexes designed and masreplanned as Micro-Cities. They combine resort living, hotels, residential, commercial, and recreational spaces to create vibrant communities within unique and diverse natural environments.<be><br>
 
-#### :small_blue_diamond: Property Development Services
+
 
 
 
