@@ -49,6 +49,10 @@ The system facilitates **direct communication through an AI assistant** among ar
 
 ### ARCHITECTS AND REAL ESTATE PROFESSIONALS
 
+<p align="center">
+  :large_blue_circle:
+</p>
+
 ###  TO THE PROPERTY DEVELOPMENT INVESTMENT COMMUNITY
 
 Here's how we can support GPs, Institutional Investors, Family Offices, National Governments, and Communities<BR>
