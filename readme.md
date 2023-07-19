@@ -35,7 +35,7 @@ By connecting the myriad of stakeholders involved in property development proces
 The property development industry is marked by inherent challenges, such as friction between parties due to uneven information distribution, safety concerns, issues related to quality, and low productivity. We address this with our Siri solution and project Knowledge base and possibly a few fine-tuned models.
 
 :small_blue_diamond: APIs to Automate processes <br>
-**We automate processes**, from design to construction, and from marketing to sales. Our versatile APIs serve as 'software glue,' bridging the gap between legacy systems and AI. This will enable us to operate as a fully automated property development company.
+**We automate processes**, from sourcing property development investment proposals, from design to construction, and from marketing to sales. Our versatile APIs serve as 'software glue,' bridging the gap between legacy systems and AI. This will enable us to operate as a fully automated property development company.
 
 :small_blue_diamond: **Information retrieval and recommendation system** <br>
 The system facilitates **direct communication through an AI assistant** among architects, contractors, and investors. This will enable direct investments in property development.
