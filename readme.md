@@ -1,8 +1,15 @@
 # APIs for Property Development 
 [WE-AI: APIs for property development](https://github.com/phaethonp/we-ai#api-for-property-development) WE-AI is the Siri for multiplayer communication on a Property Development platform. It is a virtual assistant that uses project data to interpret and respond to user requests. It's specifically designed to facilitate communication among users in the property development industry, by proactively identifying and surfacing relevant content and providing recommendations.<be><br>
 
-### PROBLEM TO SOLVE
-WE-AI wants to create a platform that automates property development which identifies property development opportunities relevant to a user and displays information about the property development project.<br> When a user subscribes to the services the platform makes all relevant information about the project available through a Question and Answering service with the use of  an Artificail Intelligent Agent using Natural Language Processing. The User can also program the Agent by means of NLP to receive notifications about the project.<br>
+### A SYSTEM THAT AUTOMATES PROPERTY DEVELOPMENT
+WE-AI aims to create a platform that automates property development. This platform identifies property development opportunities and displays relevant information about the respective development project. Upon subscription to our services, users gain access to all pertinent information about the project through a Question and Answer service, facilitated by an Artificial Intelligence Agent utilizing Natural Language Processing. Furthermore, users can program the AI Agent via Natural Language Processing to receive project-specific notifications.<br>
+
+* Allows users to submit their own property development proposals for analysis.<br>
+* The system analyzes these proposals and makes relevant information available.<br>
+* Identifies property development opportunities tailored to user preferences.<br>
+* Displays comprehensive information about each development project.<br>
+* Provides a Question and Answer service powered by an AI Agent using Natural Language Processing.<br>
+* Enables users to program the AI Agent to receive project-specific notifications.<br>
 
 
 <p align="center">
@@ -21,12 +28,15 @@ WE-AI wants to create a platform that automates property development which ident
 
 
 ### HOW IT WORKS
-1. We unlock data reservoirs that remain under-utilized or even unused.
+:small_blue_diamond: Create the project Knowledge base
+1. **We unlock data reservoirs** that remain underutilized or even unused.
 The property development industry is marked by inherent challenges, such as friction between parties due to uneven information distribution, safety concerns, issues related to quality, and low productivity. We address this with our Siri solution and project Knowledge base and possibly a few fine-tuned models.
 
-2. We automate processes, from design to construction, and from marketing to sales. Our versatile APIs serve as 'software glue,' bridging the gap between legacy systems and AI. This will enable us to operate as a fully automated property development company.
+:small_blue_diamond: APIs to Automate processes 
+2. **We automate processes**, from design to construction, and from marketing to sales. Our versatile APIs serve as 'software glue,' bridging the gap between legacy systems and AI. This will enable us to operate as a fully automated property development company.
 
-3. We plan to facilitate direct communication through an AI assistant among architects, contractors, and investors. This will enable direct investments in property development.
+:small_blue_diamond: Information retrieval and recommendation system
+3. The system facilitates **direct communication through an AI assistant** among architects, contractors, and investors. This will enable direct investments in property development.
 
 
 <p align="center">
@@ -74,6 +84,7 @@ Our future property development vision includes the creation of Iconic World Des
   :large_blue_circle:
 </p>
 
+# Who is our customer
 
 ### DELIVERING INTEGRATED SOLUTIONS TO THE PROPERTY DEVELOPMENT INVESTMENT COMMUNITY
 
