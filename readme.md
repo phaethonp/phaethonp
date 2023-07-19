@@ -28,15 +28,15 @@ WE-AI aims to create a platform that automates property development. This platfo
 
 
 ### HOW IT WORKS
-:small_blue_diamond: Create the project Knowledge base
-1. **We unlock data reservoirs** that remain underutilized or even unused.
+:small_blue_diamond: Create the project Knowledge base<br>
+**We unlock data reservoirs** that remain underutilized or even unused.
 The property development industry is marked by inherent challenges, such as friction between parties due to uneven information distribution, safety concerns, issues related to quality, and low productivity. We address this with our Siri solution and project Knowledge base and possibly a few fine-tuned models.
 
-:small_blue_diamond: APIs to Automate processes 
-2. **We automate processes**, from design to construction, and from marketing to sales. Our versatile APIs serve as 'software glue,' bridging the gap between legacy systems and AI. This will enable us to operate as a fully automated property development company.
+:small_blue_diamond: APIs to Automate processes <br>
+**We automate processes**, from design to construction, and from marketing to sales. Our versatile APIs serve as 'software glue,' bridging the gap between legacy systems and AI. This will enable us to operate as a fully automated property development company.
 
-:small_blue_diamond: Information retrieval and recommendation system
-3. The system facilitates **direct communication through an AI assistant** among architects, contractors, and investors. This will enable direct investments in property development.
+:small_blue_diamond: ** Deploy Information retrieval and recommendation system** <br>
+The system facilitates **direct communication through an AI assistant** among architects, contractors, and investors. This will enable direct investments in property development.
 
 
 <p align="center">
