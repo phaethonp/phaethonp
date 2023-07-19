@@ -16,11 +16,13 @@ WE-AI aims to create a platform that automates property development. This platfo
   :large_blue_circle:
 </p>
 
-### CHALLENGES WE ADDRESS
-:small_blue_diamond: The **property development industry** is marked by **inherent challenges**, such as:<be>
-`Friction` `Lack of Data`, `Uneven Information Distribution`, `Safety`, `Low Productivity`, `integrated Data Sources`, `Notifications` `Predictive Analytics`<br><br>
-:small_blue_diamond: To meet housing needs and stimulate growth urban and property development require new partnerships and business models<br><br>
-**Large-scale property & Urban developments**, which are important for `Urbanization and Population Growth`, `Economic Growth`, and  play a crucial role in enabling `affordable housing`,  bring their own unique set of challenges which we seek to address. <br>These include `Structuring Partnerships`, `Raising Capital`, `community Engagement`, `effective monitoring`, `transparency` and `post completion management`, among others.
+### WHY WE BUILD THIS FRAMEWORK<br>
+We address these challenges:<br>
+:small_blue_diamond: `Friction` `Lack of Data` `Uneven Information Distribution` `Safety` `Low Productivity` <br>
+The **property development industry** is marked by **inherent challenges**, such as **friction** between parties due to **uneven information distribution, safety concerns**, issues related to **quality**, and **low productivity.**<br>
+By connecting the myriad of stakeholders involved in property development processes via streamlined information sharing, we can mitigate these fragmented procedures. <br>
+
+:small_blue_diamond: `Urban challenges`, and `climate change solutions`
 
 <p align="center">
   :large_blue_circle:
@@ -43,48 +45,7 @@ The system facilitates **direct communication through an AI assistant** among ar
   :large_blue_circle:
 </p>
 
-
-### SOLUTION COMPONENTS
-WE-AI constructs a comprehensive knowledge base for each project, acting as a reliable source for retrieving content that is accessible to all involved parties<br>
-It is an integrated solution that proactively identifies and surfaces relevant content from the project's data pool and provides recommendations to all parties involved. <br>
-The solution will enable us to connect the myriad parties involved in the property development markets via streamlined information sharing, and assembly fragmented procedures into a factory-like assembly line. 
-
-<p align="center">
-  :large_blue_circle:
-</p>
-
-### MARKETS WE SERVE
-
-Such a system would allow for the delivery of services to markets such as:
-  
-:small_blue_diamond: Custom home market: Contract Management Services & Quality Control <br><br>
-:small_blue_diamond: Industry professionals: Virtual office with AI automation<br><br>
-:small_blue_diamond: Public-Private Ventures: Urban development projects— The AI-powered Micro-City: <br> 
-Because our platform streamlines the development process, is making it possible to bring mid-scale projects to life in a fraction of the traditional timeframe <br><br>
-:small_blue_diamond:Property Development Investment Community:<br>
-The transparency and data-driven decision-making facilitated by the platform could make large-scale projects more attractive to investors, potentially leading to an increase in investments in more complex projects such as affordable housing and new urban developments.<br><br>
-
-<p align="center">
-  :large_blue_circle:
-</p>
-
-# Platform Services
-
-
-### URBAN & PROPERTY DEVELOPMENT SERVICES
-As a global platform for urban development powered by our proprietary APIs, we are uniquely positioned to organize and execute future forward-thinking projects  that foster innovation and ESG growth with our international network of Architects and partners.<br>
-#### :small_blue_diamond: Micro-Cities— Iconic World Destinations as Special Economic Zones
-Our future property development vision includes the creation of Iconic World Destinations as Special Economic Zones. These are large-scale residential and hospitality sector complexes designed and masreplanned as Micro-Cities. They combine resort living, hotels, residential, commercial, and recreational spaces to create vibrant communities within unique and diverse natural environments.<be><br>
-
-#### :small_blue_diamond: Property Development Services
-
-
-
-<p align="center">
-  :large_blue_circle:
-</p>
-
-# Who is our customer
+# Customers we can serve
 
 ### DELIVERING INTEGRATED SOLUTIONS TO THE PROPERTY DEVELOPMENT INVESTMENT COMMUNITY
 
@@ -124,4 +85,15 @@ Join us as we redefine the future of real estate and property development with A
 
 ### CONTACT US
 You can reach us at phaethon.psichis@protonmail.com
+
+# Services and project typologies
+
+### URBAN & PROPERTY DEVELOPMENT SERVICES
+As a global platform for urban development powered by our proprietary APIs, we are uniquely positioned to organize and execute future forward-thinking projects  that foster innovation and ESG growth with our international network of Architects and partners.<br>
+#### :small_blue_diamond: Micro-Cities— Iconic World Destinations as Special Economic Zones
+Our future property development vision includes the creation of Iconic World Destinations as Special Economic Zones. These are large-scale residential and hospitality sector complexes designed and masreplanned as Micro-Cities. They combine resort living, hotels, residential, commercial, and recreational spaces to create vibrant communities within unique and diverse natural environments.<be><br>
+
+#### :small_blue_diamond: Property Development Services
+
+
 
