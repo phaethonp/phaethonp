@@ -1,12 +1,15 @@
-# API for Property Development 
-[WE-AI: APIs for property development](https://github.com/phaethonp/we-ai#api-for-property-development) WE-AI is the Siri for multiplayer communication on a Property Development platform. It is a virtual assistant that uses project data to interpret and respond to user requests. It's specifically designed to facilitate communication among users in the property development industry, by proactively identifying and surfacing relevant content and providing recommendations.<br>
+# APIs for Property Development 
+[WE-AI: APIs for property development](https://github.com/phaethonp/we-ai#api-for-property-development) WE-AI is the Siri for multiplayer communication on a Property Development platform. It is a virtual assistant that uses project data to interpret and respond to user requests. It's specifically designed to facilitate communication among users in the property development industry, by proactively identifying and surfacing relevant content and providing recommendations.<be><br>
+
+### PROBLEM TO SOLVE
+WE-AI wants to create a platform that automates property development which identifies property development opportunities relevant to a user and displays information about the property development project.<br> When a user subscribes to the services the platform makes all relevant information about the project available through a Question and Answering service with the use of  an Artificail Intelligent Agent using Natural Language Processing. The User can also program the Agent by means of NLP to receive notifications about the project.<br>
+
 
 <p align="center">
   :large_blue_circle:
 </p>
 
-
-### PROBLEMS WE WANT TO SOLVE
+### CHALLENGES WE ADDRESS
 :small_blue_diamond: The **property development industry** is marked by **inherent challenges**, such as:<be>
 `Friction` `Lack of Data`, `Uneven Information Distribution`, `Safety`, `Low Productivity`, `integrated Data Sources`, `Notifications` `Predictive Analytics`<br><br>
 :small_blue_diamond: To meet housing needs and stimulate growth urban and property development require new partnerships and business models<br><br>
@@ -17,8 +20,21 @@
 </p>
 
 
+### HOW IT WORKS
+1. We unlock data reservoirs that remain under-utilized or even unused.
+The property development industry is marked by inherent challenges, such as friction between parties due to uneven information distribution, safety concerns, issues related to quality, and low productivity. We address this with our Siri solution and project Knowledge base and possibly a few fine-tuned models.
 
-### SOLUTION 
+2. We automate processes, from design to construction, and from marketing to sales. Our versatile APIs serve as 'software glue,' bridging the gap between legacy systems and AI. This will enable us to operate as a fully automated property development company.
+
+3. We plan to facilitate direct communication through an AI assistant among architects, contractors, and investors. This will enable direct investments in property development.
+
+
+<p align="center">
+  :large_blue_circle:
+</p>
+
+
+### SOLUTION COMPONENTS
 WE-AI constructs a comprehensive knowledge base for each project, acting as a reliable source for retrieving content that is accessible to all involved parties<br>
 It is an integrated solution that proactively identifies and surfaces relevant content from the project's data pool and provides recommendations to all parties involved. <br>
 The solution will enable us to connect the myriad parties involved in the property development markets via streamlined information sharing, and assembly fragmented procedures into a factory-like assembly line. 
@@ -44,18 +60,6 @@ The transparency and data-driven decision-making facilitated by the platform cou
 
 # Platform Services
 
-### MANAGEMENT SERVICES 
-At WE-AI, we fuse advanced **AI Technology** with our team's **30+ years of experience** in Architecture and Construction to deliver services that the industry needs.<br>
-
-#### :small_blue_diamond: For Homebuilding Owners 
-Contract Management and Quality Control<br>
-
-#### :small_blue_diamond: For Architects & Contractors
-A suite of AI-native open-source tools <br>
-
-<p align="center">
-  :large_blue_circle:
-</p>
 
 ### URBAN & PROPERTY DEVELOPMENT SERVICES
 As a global platform for urban development powered by our proprietary APIs, we are uniquely positioned to organize and execute future forward-thinking projects  that foster innovation and ESG growth with our international network of Architects and partners.<br>
