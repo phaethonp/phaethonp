@@ -1,4 +1,8 @@
 # An experiment on building a GAI property development `agent` and achieving the provision of affordable housing
+
+This is an experimental, open-source application that leverages Neural Networks and Generative AI to automate the entire property development process. Driven by Large Language Models, this program seamlessly integrates various processes to autonomously achieve our primary goal of promoting affordable housing, within the framework set by the Builder's Remedy legislation. Broader applications for the property development industry may follow.<br>
+
+The `User Interface`
 WE-AI is a Generative (AI) Artificial intelligence agent for multiplayer communication on a Property Development platform.
 WE-AI is a virtual assistant that uses project data to interpret and respond to user requests. It's specifically designed to facilitate communication among users in the property development industry. Think of it as Siri, but with a focus on distributing relevant information to architects, contractors, and investors at the right time, ensuring effective communication and coordination.<br>
 
