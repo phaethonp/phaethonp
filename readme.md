@@ -2,6 +2,10 @@
 WE-AI is a Generative (AI) Artificial intelligence agent for multiplayer communication on a Property Development platform.
 WE-AI is a virtual assistant that uses project data to interpret and respond to user requests. It's specifically designed to facilitate communication among users in the property development industry. Think of it as Siri, but with a focus on distributing relevant information to architects, contractors, and investors at the right time, ensuring effective communication and coordination.<br>
 
+### THE FUTURE OF GENERAL AI
+In the context of our platform, the Generative AI agent is used to generate project proposals based on patterns in successful proposals, while a General AI agent (if it existed) could potentially handle every aspect of the platform, from identifying opportunities to managing projects.<br>
+For now we "glue" processes with APIs to automate processes<br>
+
 
 <p align="center">
   :large_blue_circle:
