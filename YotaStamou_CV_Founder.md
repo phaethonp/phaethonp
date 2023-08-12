@@ -3,16 +3,16 @@ Panagiota Stamou currently serves as the Editor & Curator of **"The Future of Mo
 Panagiota is at the forefront of innovation, harnessing machine learning tools in collaboration with software developers to delve into complex legislation. Her extensive banking experience spans roles at Alpha Bank, Emporiki Bank, and more, where she navigated intricate regulatory landscapes, managed credit risk, and conducted in-depth economic analyses. <br>With a blend of tech-savviness and deep financial expertise, Panagiota is adept at merging traditional banking with the latest technological advancements.<br>
 
 
-**LinkedIn:** 
+**LinkedIn:** <br>
 * Panagiota Stamou's Profile<br>
 
-**Current Role:** 
+**Current Role:** <br>
 * Founder, Editor & Curator<br>
 
-**Publication:** 
+**Publication:** <br>
 * "The Future of Money" Newsletter<br>
 
-**Publication Frequency:** 
+**Publication Frequency:** <br>
 * 2-3 times a week<br>
 
 **Average Views:** 500 views per issue<br>
