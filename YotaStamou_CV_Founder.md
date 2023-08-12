@@ -1,20 +1,26 @@
 # Panagiota Stamou
-Panagiota Stamou currently serves as the Editor & Curator of "The Future of Money" newsletter, a platform dedicated to the evolving landscape of finance. Demonstrating a strong entrepreneurial spirit, she co-led blockchain and cryptocurrency ventures as a startup founder at Pioneer.app, a Silicon Valley Startup Accelerator. Panagiota is at the forefront of innovation, harnessing machine learning tools in collaboration with software developers to delve into complex legislation. Her extensive banking experience spans roles at Alpha Bank, Emporiki Bank, and more, where she navigated intricate regulatory landscapes, managed credit risk, and conducted in-depth economic analyses. With a blend of tech-savviness and deep financial expertise, Panagiota is adept at merging traditional banking with the latest technological advancements.<br>
+Panagiota Stamou currently serves as the Editor & Curator of **"The Future of Money"** newsletter, a platform dedicated to the evolving landscape of finance. <br>Demonstrating a strong entrepreneurial spirit, she co-led blockchain and cryptocurrency ventures as a startup founder at Pioneer.app, a Silicon Valley Startup Accelerator. <be>
+Panagiota is at the forefront of innovation, harnessing machine learning tools in collaboration with software developers to delve into complex legislation. Her extensive banking experience spans roles at Alpha Bank, Emporiki Bank, and more, where she navigated intricate regulatory landscapes, managed credit risk, and conducted in-depth economic analyses. <br>With a blend of tech-savviness and deep financial expertise, Panagiota is adept at merging traditional banking with the latest technological advancements.<br>
 
 
-**LinkedIn:** Panagiota Stamou's Profile<br>
+**LinkedIn:** 
+* Panagiota Stamou's Profile<br>
 
-**Current Role:** Founder, Editor & Curator<br>
+**Current Role:** 
+* Founder, Editor & Curator<br>
 
-**Publication:** "The Future of Money" Newsletter<br>
+**Publication:** 
+* "The Future of Money" Newsletter<br>
 
-**Publication Frequency:** 2-3 times a week<br>
+**Publication Frequency:** 
+* 2-3 times a week<br>
 
 **Average Views:** 500 views per issue<br>
 
 **Peak Views:** 2,000 views (Collaboration with The Banker)<br>
 
-**Notable Collaboration:** Co-authored "Decoding ESRB's #DeFiGuidelines Amid #CryptoVolatility: Exploring Nuanced #Regulation" with James King from FT's The Banker.
+Notable Collaboration:<br>
+* Co-authored "Decoding ESRB's #DeFiGuidelines Amid #CryptoVolatility: Exploring Nuanced #Regulation" with James King from FT's The Banker.
 <br>
 **Summary:** <br>
 As the founder and driving force behind "The Future of Money" newsletter, I am dedicated to providing insights and updates on the evolving landscape of finance. Leveraging my expertise and network, I curate content that sheds light on the latest trends, innovations, and challenges in the financial world. My commitment lies in delivering valuable information to our readers, ensuring they stay informed and ahead of the curve.
