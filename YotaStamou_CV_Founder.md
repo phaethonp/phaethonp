@@ -15,8 +15,7 @@ Panagiota is at the forefront of innovation, harnessing machine learning tools i
 
 * **Peak Views:** 2,000 views (Collaboration with The Banker)<br>
 
-Notable Collaboration:<br>
-* Co-authored "Decoding ESRB's #DeFiGuidelines Amid #CryptoVolatility: Exploring Nuanced #Regulation" with James King from FT's The Banker.
+* Notable Collaboration: Co-authored "Decoding ESRB's #DeFiGuidelines Amid #CryptoVolatility: Exploring Nuanced #Regulation" with James King from FT's The Banker.
 <br>
 **Summary:** <br>
 As the founder and driving force behind "The Future of Money" newsletter, I am dedicated to providing insights and updates on the evolving landscape of finance. Leveraging my expertise and network, I curate content that sheds light on the latest trends, innovations, and challenges in the financial world. My commitment lies in delivering valuable information to our readers, ensuring they stay informed and ahead of the curve.
@@ -36,7 +35,7 @@ Co-led projects including Web3Worlds, Etherdotpage, and PunkX Metacity.<br>
 
 
 **Product Development:Regulatory & Credit Risk Reports**<br><br>
-Credit Risk Management Research Reports on weekly and quarterly basis for **Alpha Bank SA** and **Emporiki Bank SA** <be>
+Credit Risk Management Research Reports on a weekly and quarterly basis for **Alpha Bank SA** and **Emporiki Bank SA** <br>
 <br>
 Overview:<br>
 Introducing a suite of comprehensive publications meticulously tailored for Alpha Bank and Emporiki Bank's management division, board of directors, and stakeholders. These reports delve deep into the intricate facets of regulatory and internal credit risk, ensuring that the bank's leadership is always informed and prepared.
