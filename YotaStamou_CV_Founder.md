@@ -1,12 +1,13 @@
 # Panagiota Stamou
-Panagiota Stamou currently serves as the Editor & Curator of **"The Future of Money"** newsletter, a machine-learning-based platform dedicated to the evolving landscape of finance.<br>
-Demonstrating a strong entrepreneurial spirit, she co-led blockchain and cryptocurrency ventures as a startup founder at Pioneer.app, a Silicon Valley Startup Accelerator. <br>
-Panagiota is at the forefront of innovation, harnessing machine learning tools in collaboration with software developers to delve into complex legislation. <br> 
+Panagiota Stamou currently serves as the Editor & Curator of **"The Future of Money"** newsletter, a platform dedicated to the evolving landscape of finance.<br>
 Her extensive banking experience spans roles at Alpha Bank, Emporiki Bank, and more, where she navigated intricate regulatory landscapes, managed credit risk, and conducted in-depth economic analyses. <br>
-With a blend of tech-savviness and deep financial expertise, Panagiota is adept at merging traditional banking with the latest technological advancements.<br>
+
+Demonstrating a strong entrepreneurial spirit, she participated in blockchain and cryptocurrency ventures as a compliance advisor. <br>
+Panagiota is at the forefront of innovation, harnessing machine learning tools in collaboration with software developers to delve into complex legislation. <br> 
+
 
 * Innovative Approaches: Machine Learning<br>
-I am currently harnessing the power of machine learning tools to delve into complex legislation. These advanced tools are the result of a custom collaboration I have established with a team of software developers, further enhancing my ability to analyze and interpret intricate legal frameworks.<br>
+At the platform, we are currently harnessing the power of machine learning tools to delve into complex legislation. These advanced tools are the result of a custom collaboration I have established with a team of software developers, further enhancing my ability to analyze and interpret intricate legal frameworks.<br>
 
 * LinkedIn: Panagiota Stamou's Profile<br><br>
 
