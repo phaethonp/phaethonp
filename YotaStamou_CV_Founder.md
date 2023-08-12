@@ -21,7 +21,8 @@ Founder, Editor & Curator, "The Future of Money Newsletter"<br>
 * Peak Views: 2,000 views (Collaboration with The Banker)<br>
 
 * Notable Collaboration: Co-authored "Decoding ESRB's #DeFiGuidelines Amid #CryptoVolatility: "Exploring Nuanced Regulation" with James King from FT's The Banker.<br>
-* Highlighted Engagement: I had the pleasure of engaging in a valuable exchange with James King from FT's The Banker to discuss the intricacies of the #ESRB's suggested guidelines for the #DeFi industry. Our conversation illuminated key aspects of the proposal's practicality and alignment with the ever-evolving landscape of decentralized finance. Central to our discussion was the emphasis on nuanced regulatory approaches. As I conveyed to James, "While greater transparency through added reporting requirements is valuable, weighing the impact on trading platforms, particularly smaller ones is crucial. A tailored reporting system based on platform size and operations could prove more effective <br>
+* Highlighted Engagement: I had the pleasure of engaging in a valuable exchange with James King from FT's The Banker to discuss the intricacies of the #ESRB's suggested guidelines for the #DeFi industry. Our conversation illuminated key aspects of the proposal's practicality and alignment with the ever-evolving landscape of decentralized finance. Central to our discussion was the emphasis on nuanced regulatory approaches. As I conveyed to James,
+  > "While greater transparency through added reporting requirements is valuable, weighing the impact on trading platforms, particularly smaller ones is crucial. A tailored reporting system based on platform size and operations could prove more effective" <br>
 
 
 
