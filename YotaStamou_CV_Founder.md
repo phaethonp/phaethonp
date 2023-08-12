@@ -1,13 +1,17 @@
 # Panagiota Stamou
-Panagiota Stamou currently serves as the Editor & Curator of **"The Future of Money"** newsletter, a platform dedicated to the evolving landscape of finance. <br>Demonstrating a strong entrepreneurial spirit, she co-led blockchain and cryptocurrency ventures as a startup founder at Pioneer.app, a Silicon Valley Startup Accelerator. <br>
-Panagiota is at the forefront of innovation, harnessing machine learning tools in collaboration with software developers to delve into complex legislation. <br> Her extensive banking experience spans roles at Alpha Bank, Emporiki Bank, and more, where she navigated intricate regulatory landscapes, managed credit risk, and conducted in-depth economic analyses. <br>With a blend of tech-savviness and deep financial expertise, Panagiota is adept at merging traditional banking with the latest technological advancements.<br>
-* **Innovative Approaches: Machine Learning**<br>
+Panagiota Stamou currently serves as the Editor & Curator of **"The Future of Money"** newsletter, a machine-learning-based platform dedicated to the evolving landscape of finance.<br>
+Demonstrating a strong entrepreneurial spirit, she co-led blockchain and cryptocurrency ventures as a startup founder at Pioneer.app, a Silicon Valley Startup Accelerator. <br>
+Panagiota is at the forefront of innovation, harnessing machine learning tools in collaboration with software developers to delve into complex legislation. <br> 
+Her extensive banking experience spans roles at Alpha Bank, Emporiki Bank, and more, where she navigated intricate regulatory landscapes, managed credit risk, and conducted in-depth economic analyses. <br>
+With a blend of tech-savviness and deep financial expertise, Panagiota is adept at merging traditional banking with the latest technological advancements.<br>
+
+* Innovative Approaches: Machine Learning<br>
 I am currently harnessing the power of machine learning tools to delve into complex legislation. These advanced tools are the result of a custom collaboration I have established with a team of software developers, further enhancing my ability to analyze and interpret intricate legal frameworks.
-<br><br>
+<br>
 
 * LinkedIn: Panagiota Stamou's Profile<br><br>
 
-**Current Role:**
+**Current Role:**<br>
 Founder, Editor & Curator, "The Future of Money Newsletter"<br>
 * Summary: As the founder and driving force behind "The Future of Money" newsletter, I am dedicated to providing insights and updates on the evolving landscape of finance. Leveraging my expertise and network, I curate content that sheds light on the latest trends, innovations, and challenges in the financial world. My commitment lies in delivering valuable information to our readers, ensuring they stay informed and ahead of the curve.<br>
 
@@ -34,7 +38,6 @@ Reports:<br>
 * Early Warning Report: Agile reports crafted to identify and highlight potential risks and challenges at their nascent stages, facilitating prompt interventions.A weekly publication designed to provide real-time insights and flag potential risks, ensuring the bank remains proactive in its risk management approach.
 <br>
 * Quarter Report: A quarterly deep dive that offers detailed analysis and forecasting of risks, ensuring the bank's strategies are aligned with the evolving financial landscape.
-<b
 
 * Regular and Ad Hoc Reporting: Comprehensive reports that encapsulate the pivotal responsibilities of the Credit Risk Management Division.
 
@@ -47,7 +50,7 @@ Reports:<br>
 * Regulatory Communication: A streamlined conduit for transparently communicating and reporting credit risk nuances to regulatory bodies and rating agencies, fortifying compliance and trust.
 
 
-Work Experience
+**Work Experience:** <br>
 
 * **Entrepreneurial Pursues :** <br>
 Participant as a Startup Founder @ Pioneer.app, A Silicon Valley Startup Accelerator, Remote – Web3Worlds, Athens, Greece (January 2019 - December 2022)
