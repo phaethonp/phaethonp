@@ -6,7 +6,7 @@ Demonstrating a strong entrepreneurial spirit, she participated in blockchain an
 
 
 * Innovative Approaches: Machine Learning<br>
-At the platform, we are currently harnessing the power of machine learning tools to delve into complex legislation. These advanced tools are the result of a custom collaboration I have established with a team of software developers, further enhancing my ability to analyze and interpret intricate legal frameworks.<br>
+On the platform, we are developing machine learning tools to delve into complex legislation. These advanced tools are the result of a custom collaboration I have established with a team of software developers, further enhancing my ability to analyze and interpret intricate legal frameworks, and time-dependent data<br>
 
 * LinkedIn: Panagiota Stamou's Profile<br><br>
 
