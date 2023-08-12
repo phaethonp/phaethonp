@@ -17,11 +17,13 @@ Panagiota is at the forefront of innovation, harnessing machine learning tools i
 
 * Notable Collaboration: Co-authored "Decoding ESRB's #DeFiGuidelines Amid #CryptoVolatility: Exploring Nuanced #Regulation" with James King from FT's The Banker.
 <br>
+
 **Summary:** <br>
 As the founder and driving force behind "The Future of Money" newsletter, I am dedicated to providing insights and updates on the evolving landscape of finance. Leveraging my expertise and network, I curate content that sheds light on the latest trends, innovations, and challenges in the financial world. My commitment lies in delivering valuable information to our readers, ensuring they stay informed and ahead of the curve.
 <br>
-**Highlighted Engagement:**<br>
-I had the pleasure of engaging in a valuable exchange with James King from FT's The Banker to discuss the intricacies of the #ESRB's suggested guidelines for the #DeFi industry. Our conversation illuminated key aspects of the proposal's practicality and alignment with the ever-evolving landscape of decentralized finance. Central to our discussion was the emphasis on nuanced regulatory approaches. As I conveyed to James, "While greater transparency through added reporting requirements is valuable, it's crucial to weigh the impact on trading platforms, particularly smaller ones. A tailored reporting system based on platform size and operations could prove more effective."
+
+**Highlighted Engagement:** <br>
+I had the pleasure of engaging in a valuable exchange with James King from FT's The Banker to discuss the intricacies of the #ESRB's suggested guidelines for the #DeFi industry. Our conversation illuminated key aspects of the proposal's practicality and alignment with the ever-evolving landscape of decentralized finance. Central to our discussion was the emphasis on nuanced regulatory approaches. As I conveyed to James, "While greater transparency through added reporting requirements is valuable, weighing the impact on trading platforms, particularly smaller ones is crucial. A tailored reporting system based on platform size and operations could prove more effective."
 <br>
 **Innovative Approaches: Machine Learning**
 I am currently harnessing the power of machine learning tools to delve into complex legislation. These advanced tools are the result of a custom collaboration I have established with a team of software developers, further enhancing my ability to analyze and interpret intricate legal frameworks.
@@ -40,7 +42,7 @@ Credit Risk Management Research Reports on a weekly and quarterly basis for **Al
 Overview:<br>
 Introducing a suite of comprehensive publications meticulously tailored for Alpha Bank and Emporiki Bank's management division, board of directors, and stakeholders. These reports delve deep into the intricate facets of regulatory and internal credit risk, ensuring that the bank's leadership is always informed and prepared.
 <br>
-Publications:<br>
+**Regulatory & Risk Reporting:** <br>
 
 * **Early Warning Report:** A weekly publication designed to provide real-time insights and flag potential risks, ensuring the bank remains proactive in its risk management approach.
 <br>
