@@ -1,9 +1,8 @@
 # Panagiota Stamou
-Panagiota Stamou currently serves as the Editor & Curator of **"The Future of Money"** newsletter, a platform dedicated to the evolving landscape of finance.<br>
+Panagiota Stamou is the Founder of a platform specializing in Regulatory & Credit Risk Reports. Additionally, she serves as the Editor & Curator of "The Future of Money" newsletter, which is dedicated to the ever-evolving landscape of finance.<br>
 Her extensive banking experience spans roles at Alpha Bank, Emporiki Bank, and more, where she navigated intricate regulatory landscapes, managed credit risk, and conducted in-depth economic analyses. <br>
 
-Demonstrating a strong entrepreneurial spirit, she participated in blockchain and cryptocurrency ventures as a compliance advisor. <br>
-Panagiota is at the forefront of innovation, harnessing machine learning tools in collaboration with software developers to delve into complex legislation. <br> 
+Demonstrating a strong entrepreneurial spirit, she participated in blockchain and cryptocurrency ventures as a compliance advisor. <br> <br> 
 
 
 * Innovative Approaches: Machine Learning<br>
