@@ -6,8 +6,7 @@ Her extensive banking experience spans roles at Alpha Bank, Emporiki Bank, and m
 With a blend of tech-savviness and deep financial expertise, Panagiota is adept at merging traditional banking with the latest technological advancements.<br>
 
 * Innovative Approaches: Machine Learning<br>
-I am currently harnessing the power of machine learning tools to delve into complex legislation. These advanced tools are the result of a custom collaboration I have established with a team of software developers, further enhancing my ability to analyze and interpret intricate legal frameworks.
-<br>
+I am currently harnessing the power of machine learning tools to delve into complex legislation. These advanced tools are the result of a custom collaboration I have established with a team of software developers, further enhancing my ability to analyze and interpret intricate legal frameworks.<br>
 
 * LinkedIn: Panagiota Stamou's Profile<br><br>
 
