@@ -63,6 +63,22 @@ Successfully navigated intricate regulatory landscapes, ensuring compliance acro
   * Managed the corporate loan portfolio, overseeing the entire credit management lifecycle.
 
 
+### Education and Professional Development
+* Nuts and Bolts of New Ventures Course: Massachusetts Institute of Technology (MIT) - Course 15.393 (2024 expected)
+* Startup Accelerator
+* Tech Mini MBA-Leading Strategic Innovation: Athens Information Technology, Athens, Greece (November 2015 - April 2016)
+* Master of Science in Finance and Banking: Athens University of Economics and Business, Department of Economic Sciences, Athens, Greece (September 2004 - May 2005)
+* Bachelor's Degree in Economics: National & Kapodistrian University of Athens, Athens, Greece (September 1990 - December 2001)
+
+### Digital Skills
+* Generative AI & Large Language Models: Proficient in leveraging state-of-the-art generative AI models, including GPT-series and other transformer architectures, for various applications such as content generation, data analysis, and conversational AI.<br>
+* Blockchain Wallet Management: Competent in managing blockchain wallets.<br>
+* Digital Research: Adept at leveraging online databases, search engines, and AI-driven research tools to gather and analyze information.<br>
+* Collaboration Tools: Experienced in using online collaboration platforms like Slack, Teams, and Zoom, facilitating seamless communication in remote work environments.<br>
+
+
+
+
 
 
 Detailed CV
