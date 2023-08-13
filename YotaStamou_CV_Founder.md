@@ -22,7 +22,7 @@ Reports:<br>
 
 
 **"The Future of Money Newsletter"** <br>
-* Summary: As the founder and driving force behind "The Future of Money" newsletter, I am dedicated to providing insights and updates on the evolving landscape of finance. Leveraging my expertise and network, I curate content that sheds light on the latest trends, innovations, and challenges in the financial world. My commitment lies in delivering valuable information to our readers, ensuring they stay informed and ahead of the curve.<br>
+* Summary: A bi-weekly publication that sheds light on the latest trends, innovations, and challenges in finance. With an average of 500 views per issue and collaborations with industry leaders like The Banker, the newsletter is a beacon for financial professionals seeking clarity in a complex world.<br>
 
 * Publication Frequency: 2-3 times a week<br>
 
