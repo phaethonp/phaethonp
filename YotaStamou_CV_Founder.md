@@ -51,16 +51,16 @@ Successfully navigated intricate regulatory landscapes, ensuring compliance acro
 
 **Alpha Bank Athens, Greece:***
 * **Senior Risk Officer:**, Alpha Bank & Emporiki Bank, Athens, Greece (2007 - 2016):<br>
-Developed and introduced a suite of regulatory and credit risk reports for top-tier management.
-Played a pivotal role in credit risk strategy and regulatory compliance at Alpha Bank's Credit Risk Data and Analysis Division (July 2013 - July 2016).<br>
+  * Developed and introduced a suite of regulatory and credit risk reports for top-tier management.
+  * Played a pivotal role in credit risk strategy and regulatory compliance at Alpha Bank's Credit Risk Data and Analysis Division (July 2013 - July 2016).<br>
 
 **Emporiki Bank Athens, Greece:***
 * Economist, Economic Analysis and Research Division (Jan 2004 - July 2007)
-Conducted macroeconomic studies, focusing on Greece, Cyprus, and Southeastern Europe (SEE).
+  * Conducted macroeconomic studies, focusing on Greece, Cyprus, and Southeastern Europe (SEE).
 * Unit Head of Monitoring, International Subsidiaries Division (Jan 2000 - Jan 2004)
-Oversaw risk management of international subsidiaries in SEE and Cyprus.
+  * Oversaw risk management of international subsidiaries in SEE and Cyprus.
 * Credit Officer, Corporate and Retail Banking Division (Sep 1994 - Jan 2000)
-Managed the corporate loan portfolio, overseeing the entire credit management lifecycle.
+  * Managed the corporate loan portfolio, overseeing the entire credit management lifecycle.
 
 
 
