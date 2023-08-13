@@ -16,7 +16,6 @@
   * Qualitative Disclosures: Presentation of the bank's credit risk management strategy.
   * Regulatory Communication: Communicating credit risk nuances to regulatory bodies.
 
-**Team**
-* Yota Stamou: Founder, extensive experience in banking, regulatory compliance, and credit risk reporting
-* A team of devs, for neural networks, automation, and backend jobs 
-
+**Team:**
+* Yota Stamou: Founder, with extensive experience in banking, regulatory compliance, and credit risk reporting.
+* Development Team: Comprising experts in neural networks, automation, and backend operations.
