@@ -2,7 +2,7 @@
 A visionary financial expert and founder of a dedicated platform for Regulatory & Credit Risk Reports, Panagiota Stamou is at the forefront of financial innovation. With a rich history in banking and a keen eye for emerging trends, she curates "The Future of Money" newsletter, offering a fresh lens on the ever-evolving financial landscape. <br> <br> 
 
 **Innovative Approaches: Machine Learning**<br>
-To augment my capabilities in analyzing complex legal structures and interpreting time-sensitive data, and offering better services to our clients at scale, we are developing machine learning tools. This advanced software and algorithms is the result of a custom collaboration I have established with a team of software developers. This collaboration further bolsters my capacity to dissect complex legal frameworks and analyze time-dependent data.
+To augment her capabilities in analyzing complex legal structures and interpreting time-sensitive data, and offering better services to her clients at scale, Panagiota is harnessing the power of machine learning tools. This advanced software and algorithms is the result of a custom collaboration she has established with a team of software developers. This collaboration further bolsters her capacity to dissect complex legal frameworks and analyze dynamic data.
 
 ### Key Offerings
 **Regulatory & Credit Risk Reports Platform** <br>
@@ -39,15 +39,32 @@ Reports:<br>
 
 
 
-### Work Experience: <br>
+### Professional Experience: <br>
 
-* **Entrepreneurial Pursues:*** <br>
+**Entrepreneurial Pursues:*** <br>
   * Participant as a Startup Founder @ Pioneer.app, A Silicon Valley Startup Accelerator, Remote – Web3Worlds, Athens, Greece (January 2019 - December 2022)
   * Co-led blockchain and cryptocurrency ventures, aligning innovation with complex regulatory requirements.<br>
 Successfully navigated intricate regulatory landscapes, ensuring compliance across product development.<br>
 * Co-led projects including Web3Worlds, Etherdotpage, and PunkX Metacity.<br>
 
+**Alpha Bank Athens, Greece:***
 * **Senior Risk Officer:**, Alpha Bank & Emporiki Bank, Athens, Greece (2007 - 2016):<br>
+Developed and introduced a suite of regulatory and credit risk reports for top-tier management.
+Played a pivotal role in credit risk strategy and regulatory compliance at Alpha Bank's Credit Risk Data and Analysis Division (July 2013 - July 2016).<br>
+
+**Emporiki Bank Athens, Greece:***
+* Economist, Economic Analysis and Research Division (Jan 2004 - July 2007)
+Conducted macroeconomic studies, focusing on Greece, Cyprus, and Southeastern Europe (SEE).
+* Unit Head of Monitoring, International Subsidiaries Division (Jan 2000 - Jan 2004)
+Oversaw risk management of international subsidiaries in SEE and Cyprus.
+* Credit Officer, Corporate and Retail Banking Division (Sep 1994 - Jan 2000)
+Managed the corporate loan portfolio, overseeing the entire credit management lifecycle.
+
+
+
+
+Detailed CV
+
 Introducing a suite of comprehensive publications meticulously tailored for Alpha Bank and Emporiki Bank's management division, board of directors, and stakeholders. These reports delve deep into the intricate facets of regulatory and internal credit risk, ensuring that the bank's leadership is always informed and prepared.<br>
 Reports:
   * Early Warning Report: A weekly publication designed to provide real-time
