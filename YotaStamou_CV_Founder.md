@@ -81,7 +81,7 @@ Successfully navigated intricate regulatory landscapes, ensuring compliance acro
 
 
 
-Detailed CV
+-------> Details--Decide if and where to use them
 
 Introducing a suite of comprehensive publications meticulously tailored for Alpha Bank and Emporiki Bank's management division, board of directors, and stakeholders. These reports delve deep into the intricate facets of regulatory and internal credit risk, ensuring that the bank's leadership is always informed and prepared.<br>
 Reports:
