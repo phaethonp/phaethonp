@@ -1,6 +1,6 @@
 # Panagiota Stamou
 **Summary**<br>
-Panagiota Stamou is a seasoned financial expert with a deep-rooted passion for innovation in the financial landscape. With extensive experience spanning banking, regulatory compliance, and credit risk reporting, she has consistently been at the forefront of integrating technology and finance. As the founder of a dedicated platform for Regulatory & Credit Risk Reports and the curator of "The Future of Money" newsletter, Panagiota is committed to bridging the gap between traditional banking and the evolving digital financial world. <br>
+Panagiota Stamou is a seasoned financial expert with a deep-rooted passion for innovation in the financial landscape. With extensive experience spanning banking, regulatory compliance, and credit risk reporting, she has consistently been at the forefront of integrating technology and finance.<br> As the founder of a dedicated platform for Regulatory & Credit Risk Reports and the curator of "The Future of Money" newsletter, Panagiota is committed to bridging the gap between traditional banking and the evolving digital financial world. <br><br>
 She is actively seeking opportunities to leverage her expertise, collaborate with forward-thinking teams, and contribute to transformative projects in the financial sector. <br> <br> 
 
 **Technologies Used: Machine Learning**<br>
