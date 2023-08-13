@@ -2,8 +2,8 @@
 Panagiota Stamou offers a suite of Regulatory & Credit Risk Reports, leveraging best-in-class methodologies and insights. As the driving force behind a dedicated platform, she also curates "The Future of Money" newsletter, providing thought leadership on the rapidly shifting financial landscape. Her distinguished banking tenure, with pivotal roles at institutions like Alpha Bank and Emporiki Bank, showcases her adeptness in navigating regulatory complexities, spearheading credit risk strategies, and executing comprehensive economic analyses. <br> Demonstrating a strong entrepreneurial spirit, she participated in blockchain and cryptocurrency ventures as a compliance advisor. <br> <br> 
 
 
-* Innovative Approaches: Machine Learning<br>
-On the platform, we are developing machine learning tools to delve into complex legislation. These advanced tools are the result of a custom collaboration I have established with a team of software developers, further enhancing my ability to analyze and interpret intricate legal frameworks, and time-dependent data<br>
+**Innovative Approaches: Machine Learning**<br>
+To augment my capabilities in analyzing complex legal structures and interpreting time-sensitive data, and offering better services to our clients at scale, we are developing machine learning tools. This advanced software and algorithms is the result of a custom collaboration I have established with a team of software developers. This collaboration further bolsters my capacity to dissect complex legal frameworks and analyze time-dependent data.
 
 * LinkedIn: Panagiota Stamou's Profile<br><br>
 
