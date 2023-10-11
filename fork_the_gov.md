@@ -61,7 +61,7 @@ This initiative can position Syriza, and by extension Greece, as pioneers in tec
 ### 8. Is this a Digital Interface for Greek Culture and Opportunities?
 Such an AI model functions as a digital Interface to program applications and services, enabling developers worldwide to delve into the Greek ecosystem. This open-source tool, akin to models like ChatGPT, becomes a bridge, connecting Greek businesses and institutions with global partners, and fostering collaborations that can lead to technological advancements, research initiatives, and cultural exchanges.<br>
 
-## 9. Why a Foundation Language Model is transformative?<br>
+### 9. Why a Foundation Language Model is transformative?<br>
 
 * **Precision & Relevance:** Unlike generic models, a Greek-centric AI understands the nuances, idioms, and cultural references unique to Greece. This ensures accurate and contextually relevant interactions, vital for applications ranging from customer service bots to educational platforms.<br>
 
