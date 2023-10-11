@@ -3,12 +3,13 @@
 
 
 ### Introduction
-We propose a non-governmental public digital infrastructure system aimed at strengthening civil society, production, and labor markets in Greece. More specifically, we propose an artificial intelligence initiative to develop a collection of foundational language models for the Greek language, created by an open-source developer community.<br> These models will be trained using state-of-the-art open-source frameworks and exclusively utilize publicly available datasets. <br><br>
-With the rise of AI-driven technologies, from search engines to voice assistants, speakers of underserved languages might miss out on valuable information and services putting the underserved society in a disadvantageous position restricting access to information, creating educational disparities, and hampering economic development and productivity growth.<br>
+We are introducing a non-governmental public digital infrastructure with the aim of reinforcing Greece's civil society, production, and labor markets. Central to this initiative is the development of foundational language models tailored for the Greek language, a project spearheaded by an open-source developer community. These models will be constructed using cutting-edge open-source frameworks, drawing solely from publicly accessible dataset. <br><br>
 
-Through this initiative, we aim to build a platform that boosts innovation and supports economic growth, providing a non-governmental infrastructure specifically for the Greek economy and culture. This platform will be a central hub for business activities and community involvement. We are committed to offering our models for free to individuals, businesses, and the government, promoting an AI-driven future for all<br>
+In today's landscape, where AI-driven technologies are pervasive – from automation tools to voice assistants – speakers of underserved languages risk being overlooked. This oversight can place societies like Greece at a disadvantage, potentially limiting access to vital information, exacerbating educational disparities, and stifling economic and productivity growth..<br><br>
 
-All our models will be freely released for use by individuals, businesses, and the government.<br>
+At its core, this infrastructure serves as a platform for the design and rollout of solutions uniquely tailored to the Greek economy and culture.  It acts as both a centralized and decentralized hub, supporting business endeavors and fostering community engagement through active citizen participation
+We are committed to offering our models for free to individuals, businesses, and the government, promoting an AI-driven future for all<br>
+
 
 #### Key Concepts and Definitions through Questions and Answers
 
