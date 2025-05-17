@@ -7,7 +7,7 @@
 
 [![💼 WORK WITH ME](https://img.shields.io/badge/💼%20WORK%20WITH%20ME-009954?style=flat-square&labelColor=009954&color=009954)](https://boostt.org/phaethon-psichis)
 
-[![WORK WITH ME](https://raw.githubusercontent.com/phaethonp/phaethonp/main/workwithme.png)](https://boostt.org/phaethon-psichis)
+[![WORK WITH ME](https://raw.githubusercontent.com/phaethonp/phaethonp/main/WORKWITHME.png)](https://boostt.org/phaethon-psichis)
 
 
 
