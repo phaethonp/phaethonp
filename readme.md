@@ -1,7 +1,8 @@
 [![Work with me on Boostt](https://img.shields.io/badge/Work%20with%20me-Boostt.org-blue?style=for-the-badge)](https://boostt.org/phaethon-psichis)
 [![💼 GET SERVICES](https://img.shields.io/badge/💼%20Work%20with%20me%20on%20Boostt-009954?style=for-the-badge&logoColor=white&labelColor=009954&color=009954)](https://boostt.org/phaethon-psichis)
 
-[![💼 WORK WITH ME](https://img.shields.io/badge/💼%20Work%20with%20me%20on%20Boostt-009954?style=for-the-badge&logoColor=white&labelColor=009954&color=009954)](https://boostt.org/phaethon-psichis)
+[![💼 WORK WITH ME](https://img.shields.io/badge/💼%20WORK%20WITH%20ME-009954?style=for-the-badge&logoColor=white&labelColor=009954&color=009954)](https://boostt.org/phaethon-psichis)
+
 
 
 
