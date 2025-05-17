@@ -3,6 +3,7 @@
 
 [![💼 WORK WITH ME](https://img.shields.io/badge/💼%20WORK%20WITH%20ME-009954?style=for-the-badge&logoColor=white&labelColor=009954&color=009954)](https://boostt.org/phaethon-psichis)
 
+[![💼 WORK WITH ME ](https://img.shields.io/badge/💼%E2%80%83WORK%20WITH%20ME%E2%80%83-009954?style=for-the-badge&logoColor=white&labelColor=009954&color=009954)](https://boostt.org/phaethon-psichis)
 
 
 
