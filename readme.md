@@ -1,5 +1,6 @@
 
 # boostt — Pin Your Social on the map
+https://boostt.org/map
 **Services Marketplace Infrastrucutre Product Description**<br>
 boostt lets you turn your socials into services, stays, and opportunities. Pin your profile on the map and instantly transform your posts into bookable assets. Whether you're offering a high-end stay, a professional service, or claiming a creative opportunity nearby, the boostt map is about more than just seeing your world — it enables you to monetize your skills and content in real time, exactly where you stand.<br>
 
